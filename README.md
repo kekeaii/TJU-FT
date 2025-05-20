@@ -1,4 +1,4 @@
-
+# -TJU Future Technology College
 # 对即将或未来入学天津大学未来技术学院的学弟学妹的一些建议
 ## 求索之路
 
