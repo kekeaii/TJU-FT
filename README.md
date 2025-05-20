@@ -1,10 +1,7 @@
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/106368099/190056398-ac806908-0a18-4370-8935-612a25d05f32.gif" alt="Welcome" width="250"/>
-</div>
 
-# 🌟 天津大学未来技术学院 - 求索之路 🌟
+# 🌟 天津大学未来技术学院  🌟
 
 **致亲爱的学弟学妹们：欢迎来到TJU未来技术学院！** 🚀
 
