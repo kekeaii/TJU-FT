@@ -4,4 +4,6 @@
 
 - [序论](./docs/all1.md)
 - [信息获取](./docs/all2.md)
-- [学院特点](./docs/all3.md)
+- [学院特点](./docs/all4.md)
+- [本科教育](./docs/all3.md)
+- [绩点](./docs/绩点.md/README.md)
